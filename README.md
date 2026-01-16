@@ -1,7 +1,7 @@
-# Pandas Exercises
+# Pyspark Exercises
+This repository is a fork of the well-known Pandas Exercises collection, adapted to Apache Spark (PySpark DataFrame API) so you can practice the same data-wrangling patterns in a distributed environment. Tutorials are valuable, but learning happens by doing: these notebooks are designed for hands-on practice.
 
-Fed up with a ton of tutorials but no easy way to find exercises I decided to create a repo just with exercises to practice pandas.
-Don't get me wrong, tutorials are great resources, but to learn is to do. So unless you practice you won't learn.
+----
 
 There will be three different types of files:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Exercise instructions  
